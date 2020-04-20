@@ -34,7 +34,7 @@ int main(int argc, const char * argv[]) {
         Eva.gander = 1;
         
         NSLog(@" \n The first humans on the Earth: \n Name = %@ \n Age = %ld \n Gander = %ld \n\n Name = %@ \n Age = %ld \n Gander = %ld \n", Adam.name, (long)Adam.age, (long)Adam.gander, Eva.name, (long)Eva.age, (long)Eva.gander);
-        
+    
         return 0;
     }
 }
