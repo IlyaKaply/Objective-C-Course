@@ -18,6 +18,7 @@ struct Human {
     NSInteger age;
     Gander gander;
 };
+
 typedef struct Human Human;
 
 int main(int argc, const char * argv[]) {
